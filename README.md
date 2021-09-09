@@ -9,5 +9,5 @@
     - AVD 시작하기
 
 
-<img width="" height="" src="./png/2주차 과제.png"></img>
+<img width="" height="" src="./png/2주차 과제1.png"></img>
 
